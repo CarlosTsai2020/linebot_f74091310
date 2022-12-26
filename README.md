@@ -14,6 +14,7 @@ Introduction
 ### Basic information
 - Line Bot name: 傑哥不要遊戲
 - Line Bot ID:@@805bphfx
+
 ![profile](https://i.postimg.cc/tn9N7QQN/blush.png)
 
 #### how to play
